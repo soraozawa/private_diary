@@ -1,5 +1,6 @@
 private_diary/private_diary/settings.py
-
+.idea/
+*.pyc
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
